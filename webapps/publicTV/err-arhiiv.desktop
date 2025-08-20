@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ERR Arhiiv
+Comment=Public broadcaster from Estonia
+Exec=chromium --start-fullscreen --new-window https://arhiiv.err.ee/
+Icon=/usr/share/webapps/err-arhiiv.png
+Type=Application
+Categories=AudioVideo;Video;Estonia;
+Terminal=false
+StartupWMClass=chromium

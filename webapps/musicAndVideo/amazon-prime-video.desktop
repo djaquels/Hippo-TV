@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Amazon Prime Video
+Comment=Public broadcaster from Global
+Exec=chromium --start-fullscreen --new-window https://www.primevideo.com/
+Icon=/usr/share/webapps/prime-video.png
+Type=Application
+Categories=AudioVideo;Video;Global;
+Terminal=false
+StartupWMClass=chromium

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=LRT Mediateka
+Comment=Public broadcaster from Lithuania
+Exec=chromium --start-fullscreen --new-window https://www.lrt.lt/mediateka
+Icon=/usr/share/webapps/lrt-mediateka.png
+Type=Application
+Categories=AudioVideo;Video;Lithuania;
+Terminal=false
+StartupWMClass=chromium

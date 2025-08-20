@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=HRT iPlayer
+Comment=Public broadcaster from Croatia
+Exec=chromium --start-fullscreen --new-window https://iptv.hrt.hr/
+Icon=/usr/share/webapps/hrt-iplayer.png
+Type=Application
+Categories=AudioVideo;Video;Croatia;
+Terminal=false
+StartupWMClass=chromium

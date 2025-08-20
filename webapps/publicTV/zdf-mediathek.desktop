@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ZDF Mediathek
+Comment=Public broadcaster from Germany
+Exec=chromium --start-fullscreen --new-window https://www.zdf.de/
+Icon=/usr/share/webapps/zdf-mediathek.png
+Type=Application
+Categories=AudioVideo;Video;Germany;
+Terminal=false
+StartupWMClass=chromium

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Hulu
+Comment=Public broadcaster from Global
+Exec=chromium --start-fullscreen --new-window https://www.hulu.com/
+Icon=/usr/share/webapps/hulu.png
+Type=Application
+Categories=AudioVideo;Video;Global;
+Terminal=false
+StartupWMClass=chromium

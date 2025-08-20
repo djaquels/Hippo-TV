@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=CyBC Live
+Comment=Public broadcaster from Cyprus
+Exec=chromium --start-fullscreen --new-window https://www.cybc.com.cy/live-tv
+Icon=/usr/share/webapps/cybc-live.png
+Type=Application
+Categories=AudioVideo;Video;Cyprus;
+Terminal=false
+StartupWMClass=chromium

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=RTP Play
+Comment=Public broadcaster from Portugal
+Exec=chromium --start-fullscreen --new-window https://www.rtp.pt/play/
+Icon=/usr/share/webapps/rtp-play.png
+Type=Application
+Categories=AudioVideo;Video;Portugal;
+Terminal=false
+StartupWMClass=chromium

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=MTVA Mediaklikk
+Comment=Public broadcaster from Hungary
+Exec=chromium --start-fullscreen --new-window https://mediaklikk.hu/
+Icon=/usr/share/webapps/mtva-mediaklikk.png
+Type=Application
+Categories=AudioVideo;Video;Hungary;
+Terminal=false
+StartupWMClass=chromium

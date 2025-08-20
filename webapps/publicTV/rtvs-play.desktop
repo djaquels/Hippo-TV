@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=RTVS Play
+Comment=Public broadcaster from Slovakia
+Exec=chromium --start-fullscreen --new-window https://www.rtvs.sk/televzia/archiv/
+Icon=/usr/share/webapps/rtvs-play.png
+Type=Application
+Categories=AudioVideo;Video;Slovakia;
+Terminal=false
+StartupWMClass=chromium

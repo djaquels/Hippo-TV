@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=TVP VOD
+Comment=Public broadcaster from Poland
+Exec=chromium --start-fullscreen --new-window https://vod.tvp.pl/
+Icon=/usr/share/webapps/tvp-vod.png
+Type=Application
+Categories=AudioVideo;Video;Poland;
+Terminal=false
+StartupWMClass=chromium

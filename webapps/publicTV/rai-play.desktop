@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=RAI Play
+Comment=Public broadcaster from Italy
+Exec=chromium --start-fullscreen --new-window https://www.raiplay.it/
+Icon=/usr/share/webapps/rai-play.png
+Type=Application
+Categories=AudioVideo;Video;Italy;
+Terminal=false
+StartupWMClass=chromium

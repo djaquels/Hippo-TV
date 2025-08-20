@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=France.tv
+Comment=Public broadcaster from France
+Exec=chromium --start-fullscreen --new-window https://www.france.tv/
+Icon=/usr/share/webapps/france-tv.png
+Type=Application
+Categories=AudioVideo;Video;France;
+Terminal=false
+StartupWMClass=chromium

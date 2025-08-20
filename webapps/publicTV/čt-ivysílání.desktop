@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ČT iVysílání
+Comment=Public broadcaster from Czech Republic
+Exec=chromium --start-fullscreen --new-window https://www.ceskatelevize.cz/ivysilani/
+Icon=/usr/share/webapps/ct-ivysilani.png
+Type=Application
+Categories=AudioVideo;Video;Czech Republic;
+Terminal=false
+StartupWMClass=chromium

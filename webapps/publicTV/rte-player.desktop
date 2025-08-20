@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=RTE Player
+Comment=Public broadcaster from Ireland
+Exec=chromium --start-fullscreen --new-window https://www.rte.ie/player/
+Icon=/usr/share/webapps/rte-player.png
+Type=Application
+Categories=AudioVideo;Video;Ireland;
+Terminal=false
+StartupWMClass=chromium

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=DAZN
+Comment=Public broadcaster from Global
+Exec=chromium --start-fullscreen --new-window https://www.dazn.com/
+Icon=/usr/share/webapps/dazn.png
+Type=Application
+Categories=AudioVideo;Video;Global;
+Terminal=false
+StartupWMClass=chromium

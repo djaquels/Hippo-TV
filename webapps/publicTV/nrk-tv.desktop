@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=NRK TV
+Comment=Public broadcaster from Norway
+Exec=chromium --start-fullscreen --new-window https://tv.nrk.no/
+Icon=/usr/share/webapps/nrk-tv.png
+Type=Application
+Categories=AudioVideo;Video;Norway;
+Terminal=false
+StartupWMClass=chromium

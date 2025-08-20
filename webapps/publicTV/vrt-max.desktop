@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=VRT MAX
+Comment=Public broadcaster from Belgium
+Exec=chromium --start-fullscreen --new-window https://www.vrtmax.be/
+Icon=/usr/share/webapps/vrt-max.png
+Type=Application
+Categories=AudioVideo;Video;Belgium;
+Terminal=false
+StartupWMClass=chromium

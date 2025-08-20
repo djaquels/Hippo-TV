@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=RTVSLO
+Comment=Public broadcaster from Slovenia
+Exec=chromium --start-fullscreen --new-window https://4d.rtvslo.si/
+Icon=/usr/share/webapps/rtvslo.png
+Type=Application
+Categories=AudioVideo;Video;Slovenia;
+Terminal=false
+StartupWMClass=chromium

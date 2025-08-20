@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=RTBF Auvio
+Comment=Public broadcaster from Belgium
+Exec=chromium --start-fullscreen --new-window https://www.rtbf.be/auvio
+Icon=/usr/share/webapps/rtbf-auvio.png
+Type=Application
+Categories=AudioVideo;Video;Belgium;
+Terminal=false
+StartupWMClass=chromium

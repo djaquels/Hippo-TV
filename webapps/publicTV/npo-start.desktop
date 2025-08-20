@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=NPO Start
+Comment=Public broadcaster from Netherlands
+Exec=chromium --start-fullscreen --new-window https://www.npostart.nl/
+Icon=/usr/share/webapps/npo-start.png
+Type=Application
+Categories=AudioVideo;Video;Netherlands;
+Terminal=false
+StartupWMClass=chromium

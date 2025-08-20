@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=RTL Play
+Comment=Public broadcaster from Luxembourg
+Exec=chromium --start-fullscreen --new-window https://play.rtl.lu/
+Icon=/usr/share/webapps/rtl-play.png
+Type=Application
+Categories=AudioVideo;Video;Luxembourg;
+Terminal=false
+StartupWMClass=chromium

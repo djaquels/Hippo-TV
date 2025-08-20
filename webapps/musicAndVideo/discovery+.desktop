@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Discovery+
+Comment=Public broadcaster from Global
+Exec=chromium --start-fullscreen --new-window https://www.discoveryplus.com/
+Icon=/usr/share/webapps/discovery-plus.png
+Type=Application
+Categories=AudioVideo;Video;Global;
+Terminal=false
+StartupWMClass=chromium

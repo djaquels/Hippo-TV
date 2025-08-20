@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=DRTV
+Comment=Public broadcaster from Denmark
+Exec=chromium --start-fullscreen --new-window https://www.dr.dk/drtv/
+Icon=/usr/share/webapps/dr-tv.png
+Type=Application
+Categories=AudioVideo;Video;Denmark;
+Terminal=false
+StartupWMClass=chromium

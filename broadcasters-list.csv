@@ -1,0 +1,35 @@
+country,name,url,icon
+United Kingdom,BBC iPlayer,https://www.bbc.co.uk/iplayer,/usr/share/webapps/bbc-iplayer.png
+Germany,ARD Mediathek,https://www.ardmediathek.de/,/usr/share/webapps/ard-mediathek.png
+Germany,ZDF Mediathek,https://www.zdf.de/,/usr/share/webapps/zdf-mediathek.png
+Sweden,SVT Play,https://www.svtplay.se/,/usr/share/webapps/svt-play.png
+Norway,NRK TV,https://tv.nrk.no/,/usr/share/webapps/nrk-tv.png
+France,France.tv,https://www.france.tv/,/usr/share/webapps/france-tv.png
+Spain,RTVE Play,https://www.rtve.es/play/,/usr/share/webapps/rtve-play.png
+Italy,RAI Play,https://www.raiplay.it/,/usr/share/webapps/rai-play.png
+Finland,Yle Areena,https://areena.yle.fi/,/usr/share/webapps/yle-areena.png
+Denmark,DRTV,https://www.dr.dk/drtv/,/usr/share/webapps/dr-tv.png
+Netherlands,NPO Start,https://www.npostart.nl/,/usr/share/webapps/npo-start.png
+Austria,ORF TVthek,https://tvthek.orf.at/,/usr/share/webapps/orf-tvthek.png
+Switzerland,RTS Play,https://www.rts.ch/play/tv/,/usr/share/webapps/rts-play.png
+Switzerland,SRF Play,https://www.srf.ch/play/tv,/usr/share/webapps/srf-play.png
+Slovenia,RTVSLO,https://4d.rtvslo.si/,/usr/share/webapps/rtvslo.png
+Portugal,RTP Play,https://www.rtp.pt/play/,/usr/share/webapps/rtp-play.png
+Poland,TVP VOD,https://vod.tvp.pl/,/usr/share/webapps/tvp-vod.png
+Czech Republic,ČT iVysílání,https://www.ceskatelevize.cz/ivysilani/,/usr/share/webapps/ct-ivysilani.png
+Estonia,ERR Arhiiv,https://arhiiv.err.ee/,/usr/share/webapps/err-arhiiv.png
+Latvia,LTV Replay,https://replay.ltv.lv/,/usr/share/webapps/ltv-replay.png
+Lithuania,LRT Mediateka,https://www.lrt.lt/mediateka,/usr/share/webapps/lrt-mediateka.png
+Belgium,RTBF Auvio,https://www.rtbf.be/auvio,/usr/share/webapps/rtbf-auvio.png
+Belgium,VRT MAX,https://www.vrtmax.be/,/usr/share/webapps/vrt-max.png
+Ireland,RTE Player,https://www.rte.ie/player/,/usr/share/webapps/rte-player.png
+Greece,ERTFLIX,https://www.ertflix.gr/,/usr/share/webapps/ertflix.png
+Hungary,MTVA Mediaklikk,https://mediaklikk.hu/,/usr/share/webapps/mtva-mediaklikk.png
+Iceland,RÚV,https://www.ruv.is/,/usr/share/webapps/ruv.png
+Croatia,HRT iPlayer,https://iptv.hrt.hr/,/usr/share/webapps/hrt-iplayer.png
+Slovakia,RTVS Play,https://www.rtvs.sk/televzia/archiv/,/usr/share/webapps/rtvs-play.png
+Romania,TVR Plus,https://www.tvrplus.ro/,/usr/share/webapps/tvr-plus.png
+Bulgaria,BNT Play,https://bntplus.bg/,/usr/share/webapps/bnt-play.png
+Cyprus,CyBC Live,https://www.cybc.com.cy/live-tv,/usr/share/webapps/cybc-live.png
+Malta,TVM On Demand,https://tvm.com.mt/mt/ondemand/,/usr/share/webapps/tvm-ondemand.png
+Luxembourg,RTL Play,https://play.rtl.lu/,/usr/share/webapps/rtl-play.png

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=LTV Replay
+Comment=Public broadcaster from Latvia
+Exec=chromium --start-fullscreen --new-window https://replay.ltv.lv/
+Icon=/usr/share/webapps/ltv-replay.png
+Type=Application
+Categories=AudioVideo;Video;Latvia;
+Terminal=false
+StartupWMClass=chromium

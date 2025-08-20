@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Deezer
+Comment=Public broadcaster from Global
+Exec=chromium --start-fullscreen --new-window https://www.deezer.com/
+Icon=/usr/share/webapps/deezer.png
+Type=Application
+Categories=AudioVideo;Video;Global;
+Terminal=false
+StartupWMClass=chromium

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=BBC iPlayer
+Comment=Public broadcaster from United Kingdom
+Exec=chromium --start-fullscreen --new-window https://www.bbc.co.uk/iplayer
+Icon=/usr/share/webapps/bbc-iplayer.png
+Type=Application
+Categories=AudioVideo;Video;United Kingdom;
+Terminal=false
+StartupWMClass=chromium

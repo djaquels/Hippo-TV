@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ARTE.tv
+Comment=Public broadcaster from Global
+Exec=chromium --start-fullscreen --new-window https://www.arte.tv/
+Icon=/usr/share/webapps/arte-tv.png
+Type=Application
+Categories=AudioVideo;Video;Global;
+Terminal=false
+StartupWMClass=chromium

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ARD Mediathek
+Comment=Public broadcaster from Germany
+Exec=chromium --start-fullscreen --new-window https://www.ardmediathek.de/
+Icon=/usr/share/webapps/ard-mediathek.png
+Type=Application
+Categories=AudioVideo;Video;Germany;
+Terminal=false
+StartupWMClass=chromium

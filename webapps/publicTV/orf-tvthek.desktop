@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ORF TVthek
+Comment=Public broadcaster from Austria
+Exec=chromium --start-fullscreen --new-window https://tvthek.orf.at/
+Icon=/usr/share/webapps/orf-tvthek.png
+Type=Application
+Categories=AudioVideo;Video;Austria;
+Terminal=false
+StartupWMClass=chromium

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=BNT Play
+Comment=Public broadcaster from Bulgaria
+Exec=chromium --start-fullscreen --new-window https://bntplus.bg/
+Icon=/usr/share/webapps/bnt-play.png
+Type=Application
+Categories=AudioVideo;Video;Bulgaria;
+Terminal=false
+StartupWMClass=chromium

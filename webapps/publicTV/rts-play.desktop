@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=RTS Play
+Comment=Public broadcaster from Switzerland
+Exec=chromium --start-fullscreen --new-window https://www.rts.ch/play/tv/
+Icon=/usr/share/webapps/rts-play.png
+Type=Application
+Categories=AudioVideo;Video;Switzerland;
+Terminal=false
+StartupWMClass=chromium

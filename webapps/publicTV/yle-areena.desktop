@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Yle Areena
+Comment=Public broadcaster from Finland
+Exec=chromium --start-fullscreen --new-window https://areena.yle.fi/
+Icon=/usr/share/webapps/yle-areena.png
+Type=Application
+Categories=AudioVideo;Video;Finland;
+Terminal=false
+StartupWMClass=chromium

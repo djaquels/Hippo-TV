@@ -1,0 +1,29 @@
+country,name,url,icon,category
+Global,Netflix,https://www.netflix.com/,/usr/share/webapps/netflix.png,Video
+Global,YouTube,https://www.youtube.com/,/usr/share/webapps/youtube.png,Video
+Global,Amazon Prime Video,https://www.primevideo.com/,/usr/share/webapps/prime-video.png,Video
+Global,Disney+,https://www.disneyplus.com/,/usr/share/webapps/disney-plus.png,Video
+Global,HBO Max,https://www.hbomax.com/,/usr/share/webapps/hbo-max.png,Video
+Global,Apple TV+,https://tv.apple.com/,/usr/share/webapps/apple-tv-plus.png,Video
+Global,Hulu,https://www.hulu.com/,/usr/share/webapps/hulu.png,Video
+Global,Discovery+,https://www.discoveryplus.com/,/usr/share/webapps/discovery-plus.png,Video
+Global,Sky Show,https://show.sky.com/,/usr/share/webapps/sky-show.png,Video
+Global,Now TV,https://www.nowtv.com/,/usr/share/webapps/now-tv.png,Video
+Global,DAZN,https://www.dazn.com/,/usr/share/webapps/dazn.png,Video
+Global, Canal+,https://www.canalplus.com/,/usr/share/webapps/canal-plus.png,Video
+Global,Pluto TV,https://pluto.tv/,/usr/share/webapps/pluto-tv.png,Video
+Global,RAKUTEN TV,https://rakuten.tv/,/usr/share/webapps/rakuten-tv.png,Video
+Global,Viaplay,https://viaplay.com/,/usr/share/webapps/viaplay.png,Video
+Global,ITV Hub,https://www.itv.com/hub/,/usr/share/webapps/itv-hub.png,Video
+Global,F1TV,https://f1tv.formula1.com/,/usr/share/webapps/f1tv.png,Video
+Global,Crunchyroll,https://www.crunchyroll.com/,/usr/share/webapps/crunchyroll.png,Video
+Global,MyCanal,https://www.mycanal.fr/,/usr/share/webapps/mycanal.png,Video
+Global,ARTE.tv,https://www.arte.tv/,/usr/share/webapps/arte-tv.png,Video
+Global,BritBox,https://www.britbox.com/,/usr/share/webapps/britbox.png,Video
+Global,Paramount+,https://www.paramountplus.com/,/usr/share/webapps/paramount-plus.png,Video
+Global,Spotify,https://open.spotify.com/,/usr/share/webapps/spotify.png,Music
+Global,Apple Music,https://music.apple.com/,/usr/share/webapps/apple-music.png,Music
+Global,Deezer,https://www.deezer.com/,/usr/share/webapps/deezer.png,Music
+Global,Amazon Music,https://music.amazon.com/,/usr/share/webapps/amazon-music.png,Music
+Global,YouTube Music,https://music.youtube.com/,/usr/share/webapps/youtube-music.png,Music
+Global,Tidal,https://tidal.com/,/usr/share/webapps/tidal.png,Music

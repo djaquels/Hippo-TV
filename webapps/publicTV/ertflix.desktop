@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ERTFLIX
+Comment=Public broadcaster from Greece
+Exec=chromium --start-fullscreen --new-window https://www.ertflix.gr/
+Icon=/usr/share/webapps/ertflix.png
+Type=Application
+Categories=AudioVideo;Video;Greece;
+Terminal=false
+StartupWMClass=chromium

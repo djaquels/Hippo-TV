@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name= Canal+
+Comment=Public broadcaster from Global
+Exec=chromium --start-fullscreen --new-window https://www.canalplus.com/
+Icon=/usr/share/webapps/canal-plus.png
+Type=Application
+Categories=AudioVideo;Video;Global;
+Terminal=false
+StartupWMClass=chromium

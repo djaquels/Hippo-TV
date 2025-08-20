@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=F1TV
+Comment=Public broadcaster from Global
+Exec=chromium --start-fullscreen --new-window https://f1tv.formula1.com/
+Icon=/usr/share/webapps/f1tv.png
+Type=Application
+Categories=AudioVideo;Video;Global;
+Terminal=false
+StartupWMClass=chromium

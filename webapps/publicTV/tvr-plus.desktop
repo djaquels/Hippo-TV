@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=TVR Plus
+Comment=Public broadcaster from Romania
+Exec=chromium --start-fullscreen --new-window https://www.tvrplus.ro/
+Icon=/usr/share/webapps/tvr-plus.png
+Type=Application
+Categories=AudioVideo;Video;Romania;
+Terminal=false
+StartupWMClass=chromium

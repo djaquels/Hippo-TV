@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=RÚV
+Comment=Public broadcaster from Iceland
+Exec=chromium --start-fullscreen --new-window https://www.ruv.is/
+Icon=/usr/share/webapps/ruv.png
+Type=Application
+Categories=AudioVideo;Video;Iceland;
+Terminal=false
+StartupWMClass=chromium

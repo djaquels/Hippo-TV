@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ITV Hub
+Comment=Public broadcaster from Global
+Exec=chromium --start-fullscreen --new-window https://www.itv.com/hub/
+Icon=/usr/share/webapps/itv-hub.png
+Type=Application
+Categories=AudioVideo;Video;Global;
+Terminal=false
+StartupWMClass=chromium

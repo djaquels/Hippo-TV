@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=RTVE Play
+Comment=Public broadcaster from Spain
+Exec=chromium --start-fullscreen --new-window https://www.rtve.es/play/
+Icon=/usr/share/webapps/rtve-play.png
+Type=Application
+Categories=AudioVideo;Video;Spain;
+Terminal=false
+StartupWMClass=chromium

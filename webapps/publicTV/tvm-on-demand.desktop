@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=TVM On Demand
+Comment=Public broadcaster from Malta
+Exec=chromium --start-fullscreen --new-window https://tvm.com.mt/mt/ondemand/
+Icon=/usr/share/webapps/tvm-ondemand.png
+Type=Application
+Categories=AudioVideo;Video;Malta;
+Terminal=false
+StartupWMClass=chromium

@@ -1,0 +1,177 @@
+## Maintained by Appelgriebsch ##
+
+# Sound, video and bluetooth
+pavucontrol
+alsa-utils
+bluez
+bluez-utils
+wireplumber
+pipewire-alsa
+pipewire-jack
+pipewire-pulse
+pipewire-zeroconf
+grilo
+grilo-plugins
+gst-libav
+gst-plugin-pipewire
+libva-v4l2-request
+
+# Display Manager
+gdm
+
+# Network
+avahi
+networkmanager
+networkmanager-openvpn
+dhclient
+manjaro-hotfixes
+manjaro-settings-samba
+
+# Core GNOME
+gnome-power-manager
+gnome-applets
+gnome-calculator
+gnome-characters
+gnome-control-center
+gnome-desktop
+gnome-disk-utility
+gnome-font-viewer
+gnome-getting-started-docs
+gnome-keyring
+gnome-logs
+gnome-maps
+gnome-menus
+gnome-music
+gnome-panel
+gnome-photos
+gnome-power-manager
+gnome-screenshot
+gnome-session
+gnome-settings-daemon
+gnome-shell
+gnome-shell-extensions
+gnome-system-log
+gnome-system-monitor
+gnome-user-docs
+gnome-user-share
+gnome-terminal
+gnome-tweaks
+gnome-weather
+gufw
+mutter
+nautilus
+sushi
+totem
+
+# Themes
+adw-gtk3
+qt5ct
+qt5-wayland
+kvantum
+kvantum-theme-matchama
+matcha-gtk-theme
+manjaro-arm-wallpapers
+papirus-maia-icon-theme
+xcursor-breeze
+
+# Web Browser
+chromium
+
+# Email
+geary
+
+# Package Manager
+pamac-gtk
+pamac-gnome-integration
+polkit-gnome
+pamac-cli
+
+# Fonts
+noto-fonts
+noto-fonts-emoji
+ttf-bitstream-vera
+ttf-droid
+ttf-inconsolata
+ttf-font-awesome
+ttf-roboto
+wqy-microhei #chinese
+
+# some interesting CLI tools
+bat
+box64
+cpu-temp-speed
+curl
+exa
+fd
+ffmpegthumbnailer
+fzf
+helix
+htop
+jq
+mediainfo
+mlocate
+fastfetch
+odt2txt
+onefetch
+ripgrep
+rsync
+silver
+wget
+yad
+yay
+
+# Applications
+celluloid
+dconf-editor
+eog
+evince
+file-roller
+gcolor3
+gedit
+gedit-plugins
+gnome-epub-thumbnailer
+#gradience Moved to AUR
+manjaro-settings-manager
+matray
+remmina
+seahorse
+simple-scan
+
+# File systems access
+gvfs
+gvfs-gphoto2
+gvfs-mtp
+gvfs-nfs
+gvfs-smb
+ifuse
+mtpfs
+mpv
+ffmpeg
+usb_modeswitch
+
+# for qemu support
+# phodav
+# spice-vdagent
+
+# Optional dependencies file-roller
+#p7zip  # 7Z and ARJ archive support
+unrar  # RAR archive support
+
+## Xorg Input Drivers
+xf86-input-elographics
+#xf86-input-evdev
+xf86-input-libinput
+xf86-input-void
+
+## Xorg Server and Graphics
+xdg-user-dirs
+xorg-server
+xorg-server-xwayland
+numlockx
+xorg-twm
+xorg-xinit
+xorg-xkill
+
+## Desktop Utils
+xdg-utils
+xdg-desktop-portal-gnome

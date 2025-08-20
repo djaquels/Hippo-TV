@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=SVT Play
+Comment=Public broadcaster from Sweden
+Exec=chromium --start-fullscreen --new-window https://www.svtplay.se/
+Icon=/usr/share/webapps/svt-play.png
+Type=Application
+Categories=AudioVideo;Video;Sweden;
+Terminal=false
+StartupWMClass=chromium
