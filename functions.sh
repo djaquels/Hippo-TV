@@ -33,9 +33,9 @@ OSDN='storage.osdn.net:/storage/groups/m/ma/manjaro-arm'
 STORAGE_USER=$(whoami)
 FLASHVERSION=$(date +'%y'.'%m')
 ARCH='aarch64'
-USER='manjaro'
-HOSTNAME='manjaro-arm'
-PASSWORD='manjaro'
+USER='hippo'
+HOSTNAME='hippo-os'
+PASSWORD='hippo'
 CARCH=$(uname -m)
 COLORS='false'
 FILESYSTEM='ext4'
@@ -515,7 +515,7 @@ create_rootfs_img() {
     if [[ "$DEVICE" = "clockworkpi-a06" ]]; then
         echo "Enabling SSH login for root user for headless setup..."
         sed -i s/"#PermitRootLogin prohibit-password"/"PermitRootLogin yes"/g $ROOTFS_IMG/rootfs_$ARCH/etc/ssh/sshd_config
-        sed -i s/"#PermitEmptyPasswords no"/"PermitEmptyPasswords yes"/g $ROOTFS_IMG/rootfs_$ARCH/etc/ssh/sshd_config
+        sed -i s/"#PermitEmptyPasswords yes"/"PermitEmptyPasswords yes"/g $ROOTFS_IMG/rootfs_$ARCH/etc/ssh/sshd_config
 
         echo "Enabling autologin for first setup..."
         configure_cli_autologin
@@ -1608,5 +1608,4 @@ check_local_pkgs() {
     # Save the absolute path for later
     ADD_PACKAGES="$(realpath ${ADD_PACKAGES})"
 }
-
 # EOF
