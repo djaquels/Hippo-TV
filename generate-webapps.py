@@ -53,10 +53,10 @@ def main():
     input_list = configs[user_select][0]
     output_folder = configs[user_select][1]
 
-    csv_path = os.path.join(home_dir, "Dokument", "Hippo-OS",input_list)
+    csv_path = os.path.join(home_dir, "Dokument", "Hippo-TV",input_list)
 
     # Path to the applications directory
-    apps_dir = os.path.join(home_dir, "Dokument", "Hippo-OS", "webapps", output_folder)
+    apps_dir = os.path.join(home_dir, "Dokument", "Hippo-TV", "webapps", output_folder)
     print("Generating {} within {}".format(csv_path,apps_dir))
 
     # Generate webapps

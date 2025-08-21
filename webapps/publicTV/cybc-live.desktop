@@ -1,8 +1,8 @@
 [Desktop Entry]
 Name=CyBC Live
 Comment=Public broadcaster from Cyprus
-Exec=chromium --start-fullscreen --new-window https://www.cybc.com.cy/live-tv
-Icon=/usr/share/webapps/cybc-live.png
+Exec=chromium --start-fullscreen --new-window https://tv.rik.cy/live-tv/rik-1/
+Icon=/usr/share/webapps/rik.png
 Type=Application
 Categories=AudioVideo;Video;Cyprus;
 Terminal=false
