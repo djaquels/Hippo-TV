@@ -27,3 +27,8 @@ Global,Deezer,https://www.deezer.com/,/usr/share/webapps/deezer.png,Music
 Global,Amazon Music,https://music.amazon.com/,/usr/share/webapps/amazon-music.png,Music
 Global,YouTube Music,https://music.youtube.com/,/usr/share/webapps/youtube-music.png,Music
 Global,Tidal,https://tidal.com/,/usr/share/webapps/tidal.png,Music
+Global,Twitch,https://www.twitch.tv/,/usr/share/webapps/twitch.png,Gaming
+Global,Facebook Gaming,https://www.facebook.com/gaming/,/usr/share/webapps/facebook-gaming.png,Gaming
+Global,YouTube Gaming,https://gaming.youtube.com/,/usr/share/webapps/youtube-gaming.png,Gaming
+Global,Kick,https://kick.com/,/usr/share/webapps/kick.png,Gaming
+Global,Trovo,https://trovo.live/,/usr/share/webapps/trovo.png,Gaming

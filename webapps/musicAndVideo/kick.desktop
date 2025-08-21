@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Kick
+Comment=Public broadcaster from Global
+Exec=chromium --start-fullscreen --new-window https://kick.com/
+Icon=/usr/share/webapps/kick.png
+Type=Application
+Categories=AudioVideo;Video;Global;
+Terminal=false
+StartupWMClass=chromium

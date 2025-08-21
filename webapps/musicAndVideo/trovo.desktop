@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Trovo
+Comment=Public broadcaster from Global
+Exec=chromium --start-fullscreen --new-window https://trovo.live/
+Icon=/usr/share/webapps/trovo.png
+Type=Application
+Categories=AudioVideo;Video;Global;
+Terminal=false
+StartupWMClass=chromium

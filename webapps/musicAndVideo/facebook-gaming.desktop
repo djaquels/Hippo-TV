@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Facebook Gaming
+Comment=Public broadcaster from Global
+Exec=chromium --start-fullscreen --new-window https://www.facebook.com/gaming/
+Icon=/usr/share/webapps/facebook-gaming.png
+Type=Application
+Categories=AudioVideo;Video;Global;
+Terminal=false
+StartupWMClass=chromium
