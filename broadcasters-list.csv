@@ -30,6 +30,6 @@ Croatia,HRT iPlayer,https://iptv.hrt.hr/,/usr/share/webapps/hrt-iplayer.png
 Slovakia,RTVS Play,https://www.rtvs.sk/televzia/archiv/,/usr/share/webapps/rtvs-play.png
 Romania,TVR Plus,https://www.tvrplus.ro/,/usr/share/webapps/tvr-plus.png
 Bulgaria,BNT Play,https://bntplus.bg/,/usr/share/webapps/bnt-play.png
-Cyprus,CyBC Live,https://www.cybc.com.cy/live-tv,/usr/share/webapps/cybc-live.png
+Cyprus,CyBC Live,https://tv.rik.cy/live-tv/rik-1/,/usr/share/webapps/rik.png
 Malta,TVM On Demand,https://tvm.com.mt/mt/ondemand/,/usr/share/webapps/tvm-ondemand.png
 Luxembourg,RTL Play,https://play.rtl.lu/,/usr/share/webapps/rtl-play.png
