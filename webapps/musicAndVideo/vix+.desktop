@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=F1TV
+Name=Vix+
 Comment=Public broadcaster from Global
-Exec=chromium --start-fullscreen --new-window https://f1tv.formula1.com/
-Icon=/usr/share/webapps/f1-tv.png
+Exec=chromium --start-fullscreen --new-window https://vix.com/
+Icon=/usr/share/webapps/vix.png
 Type=Application
 Categories=AudioVideo;Video;Global;
 Terminal=false

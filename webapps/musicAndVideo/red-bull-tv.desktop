@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=F1TV
+Name=Red Bull TV
 Comment=Public broadcaster from Global
-Exec=chromium --start-fullscreen --new-window https://f1tv.formula1.com/
-Icon=/usr/share/webapps/f1-tv.png
+Exec=chromium --start-fullscreen --new-window https://www.redbull.com/live-events/
+Icon=/usr/share/webapps/rb.png
 Type=Application
 Categories=AudioVideo;Video;Global;
 Terminal=false
