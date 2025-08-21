@@ -4,10 +4,18 @@ import os,pwd
 icon_files = {}
 home = pwd.getpwuid(os.getuid()).pw_dir
 print("Searching at: {}".format(home))
-with open("./broadcasters-list.csv") as icons_list:
+
+configs = {
+ "public-tv": ["./broadcasters-list.csv", -1],
+ "video": ["music-and-video.csv",-2]
+}
+validate = "video"
+input_file = configs[validate][0]
+index = configs[validate][1]
+with open(input_file) as icons_list:
     data = icons_list.read()
     for broadcaster in data.split("\n"):
-        path = broadcaster.split(",")[-1]
+        path = broadcaster.split(",")[index]
         icon_files[path.split("/")[-1]] = True
 for file in glob.glob(home+"/Dokument/icons/webapps/*.png"):
     file_name = file.split("/")[-1]
